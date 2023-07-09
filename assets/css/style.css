@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto');
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+
+* {
+
+
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.bb {
+    border: 1px solid red;
+    ;
+}
+
+/* Navigation Styling */
+
+.nav-link {
+    color: #999;
+    font-weight: 200;
+}
+
+.nav-pills .nav-link.active,
+.landingPG a {
+    color: #eee;
+    background-color: #1293ee;
+}
+
+.landingPG {
+    background-color: #fafafa;
+}
+
+.landingPG h1 {
+    color: #1293ee;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.landingPG p {
+    color: #888;
+    font-weight: 200;
+
+}
+
+/* Jumpotron */
+
+.jumbotron {
+    background: linear-gradient(to right, #1293ee, #0EC1AE);
+    color: #ddd;
+
+}
+
+.jumbotron-content {
+    text-align: center;
+}
+
+
+
+/* Footer */
+
+.footer {
+    background-color: #eee;
+    padding: 40px 0;
+}
+
+.footer .container {
+    max-width: 960px;
+}
+
+.footer .list-unstyled {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.footer .list-unstyled li {
+    margin-bottom: 10px;
+}
+
+.footer .list-unstyled li a {
+    color: #6c757d;
+    text-decoration: none;
+}
+
+.footer .logo {
+    margin-bottom: 20px;
+}
+
+.footer .logo img {
+    max-width: 100px;
+    height: auto;
+}
+
+.footer .title {
+    color: #333;
+    font-size: 18px;
+}
+
+.footer .add {
+    font-size: 12px;
+    color: #333;
+
+}
+
+.dark-footer {
+    background-color: #333;
+    color: #ddd;
+    padding: 20px 0;
+}
+
+.dark-footer .container {
+    max-width: 960px;
+    text-align: center;
+}
+
+
+
+/* Cards */
+.card {
+    border: 1px solid #0EC1AE;
+}
+
+.card h5 {
+    font-size: 25px;
+    color: #333;
+}
+
+.card .card-text, .lead {
+    color: #999;
+    font-size: 16px;
+
+
+}
+
+.card .farmer {
+
+    color: #50a8e7;
+}
+
+/* ADs */
+
+.ads {
+    background-color: #0EC1AE;
+}
+
+.lead {
+    color: #888;
+
+}
+
+.norabtn {
+    border: 1px solid #0EC1AE;
+    color: #0EC1AE;
+}
+
+
+.blue {
+    background: linear-gradient(to right, #1293ee, #0EC1AE);
+    color: #ddd;
+    
+}
+.spblue{
+    color: #1293ee;
+}
+
+#myCarousel 
+{
+    background-color: #1293ee;
+}
